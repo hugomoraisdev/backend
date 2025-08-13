@@ -1,0 +1,20 @@
+{
+  "contatos": [
+    {
+      "nome": "Hugo Morais",
+      "id": "d7e6",
+      "email": "moraishugo321@gmail.com",
+      "telefone": "61982632497"
+    },
+    {
+      "id": "fedf",
+      "nome": "Gerson",
+      "email": "gersonsenna321@gmail.com"
+    },
+    {
+      "id": "ce2f",
+      "nome": "Thiago",
+      "email": "Thiagosantos@gmail.com"
+    }
+  ]
+}
